@@ -1,0 +1,1 @@
+This project can be runned locally by enabling maven to import dependencies.
